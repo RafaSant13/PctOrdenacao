@@ -8,5 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/LibBubbleSort.jar"/>
 	<classpathentry kind="lib" path="lib/LibMergeSort.jar"/>
+	<classpathentry kind="lib" path="lib/LibQuickSort.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
